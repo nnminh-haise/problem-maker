@@ -33,7 +33,7 @@ def main():
     generator: str = "generator.cpp"
     solution: str = "solution.cpp"
 
-    NUMBER_OF_TESTCASES: int = 10
+    NUMBER_OF_TESTCASES: int = 40
 
     currentTestcase = 0
 
